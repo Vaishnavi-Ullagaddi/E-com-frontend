@@ -15,6 +15,10 @@ function Home() {
       <li>✔ Secure payments</li>
       <li>✔ Fast & reliable delivery</li>
       <li>✔ Customer-first support</li>
+      <img
+        src="https://colorlib.com/wp/wp-content/uploads/sites/2/estore-free-template.jpg"
+        alt=""
+      />
     </div>
   );
 }
