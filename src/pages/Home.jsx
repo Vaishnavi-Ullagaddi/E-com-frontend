@@ -3,6 +3,10 @@ import React from "react";
 function Home() {
   return (
     <div>
+      <img
+        src="https://colorlib.com/wp/wp-content/uploads/sites/2/estore-free-template.jpg"
+        alt=""
+      />
       <h1>Shop Quality Products at the Best Prices</h1>
       <p>
         Welcome to our online store, where quality meets convenience. We offer
@@ -15,10 +19,6 @@ function Home() {
       <li>✔ Secure payments</li>
       <li>✔ Fast & reliable delivery</li>
       <li>✔ Customer-first support</li>
-      <img
-        src="https://colorlib.com/wp/wp-content/uploads/sites/2/estore-free-template.jpg"
-        alt=""
-      />
     </div>
   );
 }
